@@ -5,17 +5,23 @@ Aquí encontrarás el material de apoyo, ejercicios, recursos y enlaces para seg
 
 ## 👤 ¿A quién va dirigido?
 
-- Personas sin experiencia previa en programación
-- Estudiantes de secundaria o ciclos formativos
-- Cualquier persona con ganas de aprender desde cero
+- Personas sin experiencia previa a la programación.
+- Estudiantes de instituto o ciclos formativos que quieran complementar sus estudios.
+- Adultos con curiosidad por aprender a programar desde cero.
 
-## 🧭 Contenidos del curso
 
-📁 Módulo 1 – Introducción al desarrollo web  
-📁 Módulo 2 – HTML básico  
-📁 Módulo 3 – CSS para diseño de páginas  
-📁 Módulo 4 – Introducción a JavaScript  
-📁 Módulo 5 – Mini proyectos y ejercicios prácticos  
+## 🗓️ Cronograma del curso
+
+| Fase | Tema principal                 | Objetivo                                          | Clases estimadas | Horas    |
+| ---- | ------------------------------ | ------------------------------------------------- | ---------------- | -------- |
+| 1    | Introducción a la programación | Comprender lógica básica y herramientas iniciales | 1                | 1.5 - 2  |
+| 2    | HTML y CSS                     | Crear una web estática básica                     | 2                | 2        |
+| 3    | HTML y CSS                     | Dar estilo a páginas web                          | 1                | 4        |
+| 4    | JavaScript básico              | Añadir interactividad                             | 1 - 2            | 4        |
+| 5    | JavaScript intermedio          | Añadir funcionalidad más avanzada                 | 2 - 4            | 4        |
+| 6    | Proyectos finales              | Consolidar conocimientos con proyectos propios    | 2 - 4            | 4        |
+| …    | Próximos pasos (avanzado)      | Resolver dudas y plantear especializaciones       | 1                | Variable |
+
 
 Los módulos pueden adaptarse o modificarse según las necesidades del grupo y el ritmo de aprendizaje.
 
@@ -37,13 +43,17 @@ Los módulos pueden adaptarse o modificarse según las necesidades del grupo y e
 
 ## 🧑‍🏫 Sobre el profesor
 
-Soy Miguel Ángel Hidalgo Martinez, desarrollador web y entusiasta de la programación.  
-Este proyecto nace de mis ganas de enseñar y compartir todo lo que he ido aprendiendo durante mi formación.
+Mi nombre es Miguel Ángel Hidalgo Martínez y soy Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
+
+Este curso nace de mi vocación por enseñar y por hacer que la programación sea accesible para cualquier persona, sin importar su experiencia previa. A lo largo de mi formación, he aprendido que los comienzos pueden ser duros, sobre todo cuando los conceptos no se explican con claridad ni se adaptan al ritmo del estudiante.
+
+Por eso, he diseñado este curso para que sea cercano, práctico y progresivo, con ejemplos sencillos y proyectos reales desde el primer día. Mi objetivo es que aprendas paso a paso, entendiendo el "por qué" de las cosas y ganando confianza para seguir avanzando por tu cuenta.
 
 ## 📬 Contacto
 
 ¿Tienes alguna duda o sugerencia?  
 Puedes escribirme por LinkedIn o unirte al grupo de Telegram del curso.
+
 https://t.me/+QJ3RPP_eeDpmY2Nk
 
 ---
