@@ -54,7 +54,9 @@ Por eso, he diseñado este curso para que sea cercano, práctico y progresivo, c
 ¿Tienes alguna duda o sugerencia?  
 Puedes escribirme por LinkedIn o unirte al grupo de Telegram del curso.
 
-https://t.me/+QJ3RPP_eeDpmY2Nk
+Email: miguelahidalgo03@gmail.com
+LinkedIn: https://www.linkedin.com/in/miguelangelhidalgomartinez/
+Telegram: https://t.me/+QJ3RPP_eeDpmY2Nk
 
 ---
 
