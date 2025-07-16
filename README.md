@@ -12,12 +12,12 @@ Aquí encontrarás el material de apoyo, ejercicios, recursos y enlaces para seg
 
 ## 🗓️ Cronograma del curso
 
-| Fase | Tema principal                 | Objetivo                                          | Clases estimadas | Horas    |
+| Fase | Tema principal                 | Objetivo                                          | Clases estimadas | Horas estimadas|
 | ---- | ------------------------------ | ------------------------------------------------- | ---------------- | -------- |
 | 1    | Introducción a la programación | Comprender lógica básica y herramientas iniciales | 1                | 1.5 - 2  |
 | 2    | HTML y CSS                     | Crear una web estática básica                     | 2                | 2        |
-| 3    | HTML y CSS                     | Dar estilo a páginas web                          | 1                | 4        |
-| 4    | JavaScript básico              | Añadir interactividad                             | 1 - 2            | 4        |
+| 3    | HTML y CSS                     | Dar estilo a páginas web                          | 2 - 4            | 4        |
+| 4    | JavaScript básico              | Añadir interactividad                             | 2 - 4            | 4        |
 | 5    | JavaScript intermedio          | Añadir funcionalidad más avanzada                 | 2 - 4            | 4        |
 | 6    | Proyectos finales              | Consolidar conocimientos con proyectos propios    | 2 - 4            | 4        |
 | …    | Próximos pasos (avanzado)      | Resolver dudas y plantear especializaciones       | 1                | Variable |
